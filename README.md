@@ -1,33 +1,48 @@
-# 0224078 何崧宇 #
+# 健康健身管理系統 #
+
+
+## ##
 
 
 
-## Welcome to MarkdownPad 2 ##
 
-**MarkdownPad** is a full-featured Markdown editor for Windows.
+### 組員 ###
 
-### Built exclusively for Markdown ###
+0224036 陳佳伶
 
-Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
+0224078 何崧宇
 
-Give them a try:
+0224055 黎尚熹
 
-- **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
-- Quotes (`Ctrl+Q`)
-- Code blocks (`Ctrl+K`)
-- Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
-- Lists (`Ctrl+U` and `Ctrl+Shift+O`)
+## ##
+#專題內容 #
 
-### See your changes instantly with LivePreview ###
 
-Don't guess if your [hyperlink syntax](http://markdownpad.com) is correct; LivePreview will show you exactly what your document looks like every time you press a key.
+現代人越來越注重身體健康，過重的人想瘦身，過瘦的人想健身，而我們研發這套軟體包含可以記錄每日所吃飲食的熱量及一些健身運動的教學以及所消耗的熱量，內含多種可供查詢
 
-### Make it your own ###
+## ##
 
-Fonts, color schemes, layouts and stylesheets are all 100% customizable so you can turn MarkdownPad into your perfect editor.
+#User Story#
 
-### A robust editor for advanced Markdown users ###
 
-MarkdownPad supports multiple Markdown processing engines, including standard Markdown, Markdown Extra (with Table support) and GitHub Flavored Markdown.
+- 標題：使用者資料輸入介面
+- 估計：15天
+- 描述：讓使用者輸入如身高體重和自動計算BMI值等
+- 優先性：10
+## ##
+- 標題：食物資料庫建立
+- 估計：12天
+- 描述：將食物的資料建立資料庫，用以連結使用者所吃的東西來提供意見
+- 優先性：8
+## ##
+- 標題：運動器材資料庫建立
+- 估計：10天
+- 描述：使用者可以根據運動器材效果去選擇使用哪種運動器材來達到瘦身或減肥
+- 優先性：7
+## ##
 
-With a tabbed document interface, PDF export, a built-in image uploader, session management, spell check, auto-save, syntax highlighting and a built-in CSS management interface, there's no limit to what you can do with MarkdownPad.
+
+- 標題：教學影片連結
+- 估計：5天
+- 描述：可以讓使用者看各項運動器材使用方式等
+- 優先性：7
